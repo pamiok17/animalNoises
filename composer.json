@@ -1,0 +1,8 @@
+{
+    "name": "pamio/animal-noises-project",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    }
+}

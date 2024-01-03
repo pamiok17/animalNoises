@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AnimalNoisesTest::testDogGetSound":4,"AnimalNoisesTest::testCatGetSound":4,"AnimalNoisesTest::testCowGetSound":4},"times":{"ExampleTest::testThatTwoStringsAreTheSame":0.002,"AnimalNoisesTest::testDogGetSound":0.003,"AnimalNoisesTest::testCatGetSound":0,"AnimalNoisesTest::testCowGetSound":0,"AnimalNoisesTest::testUnsupportedAnimalAll":0}}
